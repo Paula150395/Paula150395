@@ -4,7 +4,10 @@ Nací en Tenerife y estudié *Náutica y Transporte Marítimo* en la Universidad
 Tras estudiar la carrera navegué 1 año para conseguir mi título de *Piloto de la Marina Mercante* y más tarde me trabajé en un Centro de Control de Radiocomunicaciones Marítimo.
 Actualmente me encuentro trabajando como Consultora SAP y estudiando en el Máster de Profesorado de la **ULL**.
 
+:---: :sparkles: Actualmente estoy aprendiendo :sparkles:
 
+* A usar GitHub
+* Lenguaje Markdown
 
 <!--
 **Paula150395/Paula150395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
