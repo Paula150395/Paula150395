@@ -1,5 +1,6 @@
-### Hola! Soy Paula, estudiante y futura profesora de Tecnología.👋
+### Hola! Soy Paula, estudiante de la ULL y futura profesora de Tecnología.👋
 
+Nací en Tenerife y estudié *Náutica y Transporte Marítimo* en la Universidad de La Laguna.
 
 
 <!--
