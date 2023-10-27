@@ -1,7 +1,7 @@
 ### Hola! Soy Paula, estudiante de la ULL y futura profesora de Tecnología.👋
 
 Nací en Tenerife y estudié *Náutica y Transporte Marítimo* en la Universidad de La Laguna.
-Tras estudiar la carrera navegué 1 año para conseguir mi título de *Piloto de la Marina Mercante* y más tarde me trabajé en un Centro de Control de Radiocomunicaciones Marítimo.
+Tras estudiar la carrera navegué 1 año para conseguir mi título de *Piloto de la Marina Mercante* y más tarde trabajé en un Centro de Control de Radiocomunicaciones Marítimo.
 Actualmente me encuentro trabajando como Consultora SAP y estudiando en el Máster de Profesorado de la **ULL**.
 
 Lo que me gusta | Lo que no me gusta
