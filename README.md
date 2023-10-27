@@ -4,12 +4,12 @@ Nací en Tenerife y estudié *Náutica y Transporte Marítimo* en la Universidad
 Tras estudiar la carrera navegué 1 año para conseguir mi título de *Piloto de la Marina Mercante* y más tarde me trabajé en un Centro de Control de Radiocomunicaciones Marítimo.
 Actualmente me encuentro trabajando como Consultora SAP y estudiando en el Máster de Profesorado de la **ULL**.
 
-First Header | Second Header
+Lo que me gusta | Lo que no me gusta
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Disfrutar de las pequeñas cosas del día a día | El teletrabajo
+Pasar tiempo al aire libre | El humor negro
 
-
+✨Cosas que estoy aprendiendo✨
 * A usar GitHub
 * Lenguaje Markdown
 
